@@ -1,0 +1,13 @@
+body{
+    margin: 0;    
+    background: rgb(102, 190, 102);
+    overflow: hidden;
+    text-align: center;
+
+}
+#carCanvas{
+    background: black;
+}
+#networkCanvas{
+    background: black;
+}
